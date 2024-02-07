@@ -1,7 +1,9 @@
 <h1> Lesson 2.4: Network Devices and Topologies </h1>
 <h2> Summary</h2>
 
-<p1>In the realm of computer networking, devices, and topologies serve as the foundational elements that ensure seamless communication between computers and other digital devices. Network devices, such as routers, switches, hubs, and modems, play pivotal roles in directing, transmitting, and managing data traffic. These devices work in tandem to ensure that data packets reach their intended destinations efficiently. On the other hand, network topologies describe these devices' physical or logical arrangement within a network. Common topologies include bus, star, ring, and mesh, each with advantages and use cases. Understanding both devices and topologies is crucial for anyone looking to grasp the intricacies of computer networks and design effective and efficient communication systems.</p1>
+<p1>In the realm of computer networking, devices, and topologies serve as the foundational elements that ensure seamless communication between computers and other digital devices. Network devices, such as routers, switches, hubs, and modems, play pivotal roles in directing, transmitting, and managing data traffic. These devices work in tandem to ensure that data packets reach their intended destinations efficiently. 
+
+On the other hand, network topologies describe these devices' physical or logical arrangement within a network. Common topologies include bus, star, ring, and mesh, each with advantages and use cases. Understanding both devices and topologies is crucial for anyone looking to grasp the intricacies of computer networks and design effective and efficient communication systems.</p1>
 <br>
 
 <h2>Learning Objectives</h2>
