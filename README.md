@@ -66,21 +66,21 @@ On the other hand, network topologies describe these devices' physical or logica
 
 <h2>NICE Framework KSAs</h2>
 <ul>
-<li>K0001 - Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
+<li>K0001: Knowledge of computer networking concepts, protocols, and network security methodologies.</li>
 <br>
-<li>K0010 - Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
+<li>K0010: Knowledge of communication methods, principles, and ideas that support the network infrastructure.</li>
 <br>
-<li>K0011 - Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
+<li>K0011: Knowledge of capabilities and applications of network equipmentK0029	Knowledge of the organization's Local and Wide Area Network connections.</li>
 <br>
-<li>K0034 - Knowledge of network services and protocol interactions that provide network communications.</li>
+<li>K0034: Knowledge of network services and protocol interactions that provide network communications.</li>
 <br>
-<li>K0057 - Knowledge of network hardware devices and functions.</li>
+<li>K0057: Knowledge of network hardware devices and functions.</li>
 <br>
-<li>K0061 - Knowledge of how traffic flows across the network</li>
+<li>K0061: Knowledge of how traffic flows across the network</li>
 <br>
-<li>K0111 - Knowledge of network tools</li>
+<li>K0111: Knowledge of network tools</li>
 <br>
-<li>K0113 - Knowledge of different types of network communication</li>
+<li>K0113: Knowledge of different types of network communication</li>
 </ul>
 
 
@@ -154,15 +154,40 @@ Real-world network issues often involve device malfunctions or topology ineffici
 
 Networking devices play crucial roles in managing and directing data traffic. Understanding how they interact with the different layers of the OSI Model provides insights into their functionalities and the intricacies of network design and operation. The world of network devices and topologies is vast and ever-evolving. Understanding these elements, from small home setups to global cloud infrastructures, is crucial for efficient and resilient network operations. Real-world examples, from Cisco's devices to Google's data center designs, highlight this knowledge's practical applications and significance.
 
+<h2>Definitions</h2>
 
+<li><b>Router:</b> A device that directs data packets between different networks and manages traffic to ensure data is sent to the correct destination.<br>
+<br>
 
+<li><b>Ring:</b> A network topology where each device is connected to two other devices, forming a circular data path.<br>
+<br>
+
+<li><b>Star:</b> A network topology where all devices are connected to a central hub or switch, which manages the communication between them.<br>
+<br>
+
+<li><b>Gateway:</b> A network device that acts as a bridge between different networks or systems, often translating protocols and data formats.<br>
+<br>
+
+<li><b>Bus:</b> A network topology where all devices are connected to a single central cable, which carries all data traffic.<br>
+<br>
+
+<li><b>Switch:</b> A network device that connects devices within a network and forwards data based on MAC addresses to the correct destination.<br>
+<br>
+
+<li><b>NIC (Network Interface Card):</b> A hardware component that allows a device to connect to a network and communicate with other devices.<br>
+<br>
+
+<li><b>Mesh:</b> A network topology where each device is connected to multiple other devices, allowing for multiple paths for data to travel and increasing network reliability.<br>
+<br>
+
+<li><b>Bridge:</b> A network device that connects and filters traffic between two or more network segments, operating at the Data Link layer to reduce collisions and segregate traffic.
 <h2> Presentation</h2>
 
 <a href="https://docs.google.com/presentation/d/1kMVzrLrfY-p0cIw59wXtCRlKCIZp-slH/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Internetworking Devices</a>
 
 
 <h2> Hands-On Labs</h2>
-
+<h2>Games</h2>
 
 <h2> Additional Resources</h2>
 
